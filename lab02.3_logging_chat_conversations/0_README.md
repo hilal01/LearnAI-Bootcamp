@@ -40,7 +40,8 @@ __docs__: Contains all the hands-on labs
 __code__: Contains all the code for the hands-on labs
 
 The order of Hands-on Labs to carry out the solution is as follows:
-1. Activity Logger:
+
+1. [Activity Logger][a link]https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.3_logging_chat_conversations/docs/1_Activity%20Logger.md
 The aim of this hands-on lab is to implement the IActivityLogger interface that writes message activities when running in debug. 
 2. File Logger:
 This hands-on lab is to demonstrate how you can log conversations to a file using global events.
