@@ -43,8 +43,8 @@ The order of Hands-on Labs to carry out the solution is as follows:
 
 1. [Activity Logger](../lab02.3_logging_chat_conversations/docs/1_Activity%20Logger.md)
 The aim of this hands-on lab is to implement the IActivityLogger interface that writes message activities when running in debug. 
-2. [File Logger](https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.3_logging_chat_conversations/docs/2_File%20Logger.md) This hands-on lab is to demonstrate how you can log conversations to a file using global events.
-3. [SQL Logger](https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.3_logging_chat_conversations/docs/3_SQL%20Logger.md) This hands-on lab is an extension of the file logger. The same code from the previous task is extended to log conversations in SQL.
+2. [File Logger](../lab02.3_logging_chat_conversations/docs/2_File%20Logger.md) This hands-on lab is to demonstrate how you can log conversations to a file using global events.
+3. [SQL Logger](../lab02.3_logging_chat_conversations/docs/3_SQL%20Logger.md) This hands-on lab is an extension of the file logger. The same code from the previous task is extended to log conversations in SQL.
 
 Follow the hands-on labs in the sequential manner listed above.
 
