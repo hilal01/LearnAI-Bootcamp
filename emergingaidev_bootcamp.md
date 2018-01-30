@@ -68,9 +68,9 @@ We will also use a gitter forum for discussion. Please post comments and questio
 [lab-cogsrvc-322]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.3_customvision02/0_README.md
 [lab-cogsrvc-323]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.4_customvision03/0_README.md
 [lab-cogsrvc-341]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.5-luis/0_README.md
-[lab-azsearch-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-azsearch-301
-[lab-intelbot-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-301
+[lab-azsearch-301]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.1-azure_search/0_README.md
+[lab-intelbot-301]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/0_README.md
 [lab-intelbot-311]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.3_logging_chat_conversations/0_README.md
-[lab-intelbot-321]:https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-321
+[lab-intelbot-321]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.4_testing_bots/0_README.md
 [gitter]: https://gitter.im/LearnAI-Bootcamps
 
