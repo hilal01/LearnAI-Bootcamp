@@ -70,7 +70,7 @@ We will also use a gitter forum for discussion. Please post comments and questio
 [lab-cogsrvc-341]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-341
 [lab-azsearch-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-azsearch-301
 [lab-intelbot-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-301
-[lab-intelbot-311]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-311
+[lab-intelbot-311]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab02.3_logging_chat_conversations/0_README.md
 [lab-intelbot-321]:https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-321
 [gitter]: https://gitter.im/LearnAI-Bootcamps
 
