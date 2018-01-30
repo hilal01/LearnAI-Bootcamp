@@ -32,7 +32,7 @@ The order of Hands-on Labs to carry out the solution is as follows:
 The aim of this hands-on lab is to show how you can use ngrok to perform rapid development/testing.
 2. [Unit Testing Bots](../lab02.4_testing_bots/docs/2_Unit%20Testing%20Bots.md)
 Chatbots bring their own set of challenges to testing including testing across environments, integrating third party APIs, etc. In this hands-on lab, learn how to perform mocking to unit test your bot code.
-3. [Direct Line](../lab02.4_testing_bots/docs/3_Direct Line Testing.md)
+3. [Direct Line](../lab02.4_testing_bots/docs/3_Direct%20Line%20Testing.md)
 This hands-on lab demonstrates how you can communicate directly with your bot from a custom client.
 
 Follow the hands-on labs in the sequential manner described above.
