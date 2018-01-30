@@ -64,9 +64,9 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
 We will also use a gitter forum for discussion. Please post comments and questions [here][gitter].
 
 [lab-cogsrvc-301]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md
-[lab-cogsrvc-321]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.2-custom_vision01/0_README.md
-[lab-cogsrvc-322]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.3-custom_vision02/0_README.md
-[lab-cogsrvc-323]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.4-custom_vision03/0_README.md
+[lab-cogsrvc-321]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.2-customvision01/0_README.md
+[lab-cogsrvc-322]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.3-customvision02/0_README.md
+[lab-cogsrvc-323]: https://github.com/hilal01/LearnAI-Bootcamp/blob/master/lab01.4-customvision03/0_README.md
 [lab-cogsrvc-341]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-341
 [lab-azsearch-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-azsearch-301
 [lab-intelbot-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-301
