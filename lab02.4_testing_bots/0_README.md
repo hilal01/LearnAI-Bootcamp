@@ -28,7 +28,7 @@ __docs__: Contains all the hands-on labs
 __code__: Contains all the code for the hands-on labs
 
 The order of Hands-on Labs to carry out the solution is as follows:
-1. [Ngrok](../lab024_testing_bots/docs/1_Ngrok.md)
+1. [Ngrok](../lab02.4_testing_bots/docs/1_Ngrok.md)
 The aim of this hands-on lab is to show how you can use ngrok to perform rapid development/testing.
 2. Unit Testing Bots:
 Chatbots bring their own set of challenges to testing including testing across environments, integrating third party APIs, etc. In this hands-on lab, learn how to perform mocking to unit test your bot code.
